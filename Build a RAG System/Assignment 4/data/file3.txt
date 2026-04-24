@@ -1,0 +1,21 @@
+Transformer Model
+
+A Transformer is a deep learning model designed to process sequential data such as text. It is widely used in natural language processing tasks like translation, text generation, and chatbots.
+
+Unlike recurrent neural networks (RNNs), transformers process all input data at once instead of step-by-step. This allows faster training and better performance on long sequences.
+
+The key idea behind transformers is the attention mechanism. Attention allows the model to focus on important words in a sentence and understand relationships between them.
+
+A transformer model includes several main components:
+
+- Tokenization: converting text into smaller units called tokens
+- Embedding: converting tokens into numerical vectors
+- Attention layers: capturing relationships between tokens
+- Feedforward layers: processing and refining the information
+
+Transformers are used in many modern AI systems, including:
+- GPT models for text generation
+- BERT for understanding language
+- Chatbots and virtual assistants
+
+Compared to RNNs, transformers handle long-range dependencies better and can process data in parallel, making them more efficient and powerful.

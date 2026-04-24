@@ -1,0 +1,21 @@
+Convolutional Neural Network (CNN)
+
+A Convolutional Neural Network (CNN) is a type of deep learning model used to process data such as images, text, and audio. CNNs are widely used in computer vision tasks like image recognition and classification.
+
+CNNs work by applying filters (also called kernels) to input data. These filters scan across the input and detect important features such as edges, shapes, and patterns. The result of this process is called a feature map.
+
+A CNN typically consists of several types of layers:
+
+- Convolutional layers: extract features from the input using filters
+- Pooling layers: reduce the size of the data while keeping important information
+- Fully connected layers: combine features to make final predictions
+
+One key advantage of CNNs is weight sharing, where the same filter is applied across different parts of the input. This reduces the number of parameters and improves efficiency.
+
+CNNs are commonly used in:
+- Image and video recognition
+- Medical image analysis
+- Natural language processing
+- Recommendation systems
+
+Compared to fully connected neural networks, CNNs require fewer parameters and are better at capturing spatial patterns in data.
